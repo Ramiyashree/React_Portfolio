@@ -12,6 +12,17 @@ class About extends React.Component {
         <div className="inner-structure center" style={{ flexDirection: "column" }}>
         <h1 class="title_heading pad-down">PROJECTS</h1>
         <Container fluid style={{ padding: "5em" }}>
+        <Row className="justify-content-md-center pad-down">
+         <Col className ="pad-down"> 
+         <Row><h5>Job Tracking Application - MERN</h5></Row>
+           <Row><ul>
+             <li><h6>Developed the MERN stack web app for tracking a job through every state of the process where a job process</h6></li>
+             <li><h6>User can create, update, view and delete a job along with its details and can also filter out the specific job</h6></li>
+             <li><h6>Provided login with email using JWT and Google OAuth Authentication </h6></li>
+           </ul></Row>
+        </Col>
+        </Row>
+
           <Row style={{background:"#f5f5f5"}}  className="justify-content-md-center">
          <Col className ="pad-down"> 
          <Row><h5>DEEP SEE CRIME – An AI Based Crime Monitoring System - Aug 2020</h5></Row>

@@ -15,7 +15,7 @@ class About extends React.Component {
           <Row className="justify-content-md-center">
          <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col>
          <Col className ="pad-down"> 
-         <Row><h5>University of Illinois at ChiFcago, January 2021 - December 2022</h5></Row>
+         <Row><h5>University of Illinois at Chicago, January 2021 - December 2022</h5></Row>
            <Row><h6>Master of Science - MS in Computer Science</h6></Row>
            <Row><h6>Computer Algorithms, Software development for mobile platforms, Introduction to machine learning</h6></Row></Col>
         </Row>
