@@ -13,7 +13,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <BrowserRouter>
+    <Router>
     <div className="App">
       <NavigationBar/>
       <Switch>
@@ -28,7 +28,7 @@ function App() {
     </Switch>
     <Footer style={{ zIndex: -2 }} />
     </div>
-    </BrowserRouter>
+    </Router>
 
   );
 }
