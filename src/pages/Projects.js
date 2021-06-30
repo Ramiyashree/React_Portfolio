@@ -14,7 +14,7 @@ class About extends React.Component {
         <Container fluid style={{ padding: "5em" }}>
 
         <Row className="justify-content-md-center">
-         <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col>
+         {/* <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col> */}
          <Col className ="pad-down"> 
          <Row><a href="">Job Tracking Application - MERN - March2021</a>  <a href="https://jobapplicationtrackermern.netlify.app/">livewebsite</a></Row>
          <Row><ul>
@@ -26,7 +26,7 @@ class About extends React.Component {
         </Row>
 
           <Row style={{background:"#f5f5f5"}}  className="justify-content-md-center">
-          <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col>
+          {/* <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col> */}
          <Col className ="pad-down"> 
          <Row><a href = " "> DEEP SEE CRIME – An AI Based Crime Monitoring System - Aug 2020 </a></Row>
            <Row><ul>
@@ -37,7 +37,7 @@ class About extends React.Component {
         </Row>
 
         <Row className="justify-content-md-center pad-down">
-        <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col>
+        {/* <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col> */}
          <Col className ="pad-down"> 
          <Row><a href = " "> Symptoms based disease prediction using decision tree and electronic health record analysis - May 2020 </a></Row>
            <Row><ul>
@@ -48,7 +48,7 @@ class About extends React.Component {
         </Row>
 
         <Row style={{background:"#f5f5f5"}}  className="justify-content-md-center pad-down">
-        <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col>
+        {/* <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col> */}
          <Col className ="pad-down"> 
          <Row><a href = " " > Silent-horn: A smart web app for hearing impaired people - Sept 2018  </a></Row>
            <Row><ul>
@@ -59,7 +59,7 @@ class About extends React.Component {
         </Row>
 
         <Row className="justify-content-md-center pad-down">
-        <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col>
+        {/* <Col  xs lg="2"><picture><img className="header-img"  alt="proj pic" fluid /></picture></Col> */}
          <Col className ="pad-down"> 
          <Row><a href = " " >Atrocity Case Management and Monitoring - March 2018  </a></Row>
            <Row><ul>
