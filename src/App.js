@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, BrowserRouter, Switch, Route } from "react-router-dom";
 import NavigationBar from "./components/NavigationBar";
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -13,7 +13,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
     <div className="App">
       <NavigationBar/>
       <Switch>
@@ -28,7 +28,7 @@ function App() {
     </Switch>
     <Footer style={{ zIndex: -2 }} />
     </div>
-    </Router>
+    </BrowserRouter>
 
   );
 }

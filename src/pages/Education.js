@@ -25,7 +25,18 @@ class About extends React.Component {
          <Col> 
          <Row className ="pad-down"><h5>Anna University(RMK Engineering College), July 2016 - August 2020</h5></Row>
            <Row><h6>Bachelor of Engineering (BE) in Computer Science and Engineering</h6></Row>
-           <Row><h6>Coursework: Unix and Shell Programming, Data Structures, Object Oriented Design and Programming, Electronic Circuits, Login Design, Design and analysis of Algorithms, Graph Theory, Software Engineering, Database Management Systems, Computer Networks, Compiler Design, Management and Entrepreneurship, Advanced Computer Architecture, Operating Systems, Java Programming, C# .Net, Computer Graphics and Visualisation, Microprocessors
+           <Row><h6>Data Structures, Object Oriented Design and Programming,
+             Design and analysis of Algorithms, Graph Theory, 
+             Software Engineering, Database Management Systems, 
+             Computer Networks, Compiler Design, Computer Architecture, 
+             Operating Systems, Internet Programming, 
+             Computer Graphics, Microprocessors and Microcontroller,  Cloud Computing
+             , Artificial Intelligence, Computer Programming, Analog and digital communication, Transforms and partial differiental equations,
+ Digital Principles and System Design, Probability and Queuing Theory, Discrete Mathematics,Theory of Computation,
+ Distrubted Systems, Mobile Computing, Digital Signal Processing,
+ Cryptograpghy and network security, Resource Management Techniques, Information retrieval,
+ Multi-core architecture and programming, Total Quality management, Service Oriented Architecture,
+ Social Network Analaysis, Software Project Management
 </h6></Row></Col>
         </Row>
           </Container>

@@ -10,7 +10,7 @@ class About extends React.Component {
     return (
     <div className="primary outer-structure" style={{ display: "flex", flexDirection: "column"}}>
         <div className="inner-structure center" style={{ flexDirection: "column" }}>
-        <h1 class="title_heading pad-down">Skills</h1>
+        <h1 class="title_heading pad-down">SKILLS</h1>
           <Container fluid style={{ padding: "5em" }}>
 
          
