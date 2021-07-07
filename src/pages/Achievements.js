@@ -23,7 +23,7 @@ class About extends React.Component {
         </Col>
         </Row>
        
-        <Row className="justify-content-md-center pad-down">
+        <Row style={{background:"#f5f5f5"}} className="justify-content-md-center pad-down">
          <Col className ="pad-down"> 
          <Row><h5>Research Paper Presentation - Real-time spontaneous abortion prediction and detection using IoT & ML</h5></Row>
            <Row><ul>
@@ -42,7 +42,7 @@ class About extends React.Component {
         </Col>
         </Row>
 
-        <Row className="justify-content-md-center">
+        <Row style={{background:"#f5f5f5"}} className="justify-content-md-center">
          <Col className ="pad-down"> 
          <Row><h5>Mentoring</h5></Row>
            <Row><ul>

@@ -25,7 +25,7 @@ class About extends React.Component {
          </Col>
         </Row>
 
-          <Row style={{background:"#f5f5f5"}}  className="justify-content-md-center">
+          <Row style={{background:"#f5f5f5"}} className="justify-content-md-center">
           {/* <Col  xs lg="2"><picture><img className="header-img" src={UICLogo} alt="header" fluid /></picture></Col> */}
          <Col className ="pad-down"> 
          <Row><a href = " "> DEEP SEE CRIME – An AI Based Crime Monitoring System - Aug 2020 </a></Row>

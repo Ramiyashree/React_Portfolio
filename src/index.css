@@ -5,7 +5,7 @@
   --dark-gradient: linear-gradient(45deg, rgba(17, 35, 50, 1), rgba(7, 37, 62, 1));
   --bg-color: white;
   --light-gradient: linear-gradient(90deg, #ff5f6d, #ffc371);
-  --gray-gradient: linear-gradient(45deg, #4b5268, #203a43);
+  --gray-gradient: linear-gradient(45deg, #535a72, #203a43);
   --gray-base: #203a43;
   /*CSS Properties begin*/
   background-color: var(--bg-color);
@@ -39,7 +39,7 @@ sm {
 }
 
 .highlight {
-  color: #e31b6d;
+  color: #168136;
 }
 
 .heading_text{
