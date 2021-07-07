@@ -33,7 +33,7 @@ class About extends React.Component {
               </Col>
             </Row>
             <Row className="justify-content-center">
-              <Button className="resume-btn" href="/RamiyaShreeSeshaiah_Resume.pdf" target="_blank" size="lg">
+              <Button className="resume-btn" href="/RamiyaShreeSeshaiahResume.pdf" target="_blank" size="lg">
                 <FontAwesomeIcon icon={faFileAlt} /> Résumé
               </Button>
         
